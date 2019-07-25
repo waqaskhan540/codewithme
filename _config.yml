@@ -16,7 +16,7 @@
 title: Muhammad Waqas
 email: wasikhan540@gmail.com
 
-baseurl: "/codewithme" # the subpath of your site, e.g. /blog
+# the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wasikhan540
 github_username:  waqaskhan540
