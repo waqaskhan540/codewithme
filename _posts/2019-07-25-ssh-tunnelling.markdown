@@ -11,7 +11,7 @@ categories: aws,linux
 This blog post illustrates how can we get access to a database hosted on an EC2 instance using SSH Tunnelling.
 
 
-## Installing `pgadmin`
+## Installing pgAdmin4
 `pgadmin` is a SQL Query tool and can be used to query a Postgres database. Follow the steps below to install this tool.
 
 To begin the installation of PgAdmin4, run the command below.
@@ -24,7 +24,7 @@ During the installation process, you will be prompted for an `Email address` and
 
 > Alternatively you could install `pgadmin4` through `Ubuntu Software` by searching for `pgadmin4` 
 
-## Connecting to `pgAdmin4`
+## Connecting to pgAdmin4
 
 Now that we have successfully installed PgAdmin4, it’s time now to connect to it. Open your browser and browse your server’s IP address as shown
 
