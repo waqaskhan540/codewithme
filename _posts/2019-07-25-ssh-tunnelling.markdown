@@ -8,7 +8,7 @@ categories: aws,linux
 
 # Getting Access to IFI Database
 
-This blog illustrates how can we get access to the IFI Claims Postgres Database. 
+This blog post illustrates how can we get access to a database hosted on an EC2 instance using SSH Tunnelling.
 
 
 ## Installing `pgadmin`
