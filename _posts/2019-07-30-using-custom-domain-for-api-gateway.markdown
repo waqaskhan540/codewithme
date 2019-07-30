@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Accessing PostgreSQL Database hosted on EC2 using SSH tunneling"
+title:  "Using Custom Domain for AWS API Gateway"
 date:   2019-07-25 15:26:16 +0500
 categories: api-gateway
 ---
