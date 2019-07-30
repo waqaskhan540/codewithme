@@ -18,7 +18,7 @@ Well, the solution to the above problem is using *Custom Domains*, lets see how 
 
 ## Using Custom Domains with API Gateway
 
-Before going through the steps needed to go through, I would make following few assumptions:
+Before going through the required steps, I would make following few assumptions:
 
 - You have a running/deployed API on *AWS API Gateway*
 - You have a registered *Domain* and have necessary permissions to configure it.
@@ -36,11 +36,11 @@ Before going through the steps needed to go through, I would make following few 
 
 5. For **Procol** choose *HTTP*.
 
-6. Enter the name of the *Domain* i.e. `www.example.com` (note that the domain should be the exactly same which you have the SSL certificate for).
+6. Enter the name of the *Domain* i.e. `www.example.com` (note that the domain should be exactly same which you have the SSL certificate for).
 
 7. Choose any of the **TLS Security Policy**.
 
-8. For endpoint configuration choose **Regional**.
+8. For *endpoint configuration* choose **Regional**.
 
 9. Choose your *ACM Certificate* for the Domain.
 
